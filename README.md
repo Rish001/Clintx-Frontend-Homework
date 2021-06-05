@@ -1,6 +1,6 @@
 # Clintx-Frontend-Assignment
 
-As part of our application process, we'd like to see what you can produce by giving you a small assignment. Any extra polish or features you might want to put in will not go unnoticed.
+As part of our recruitment process, we'd like to see what you can produce by giving you a small assignment. Any extra polish or features you might want to put in will not go unnoticed.
 
 ## The assignment
 
